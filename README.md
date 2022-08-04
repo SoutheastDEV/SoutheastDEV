@@ -3,7 +3,13 @@
 
 hello my name is *SoutheastDEV*. one of degenerate person on the earth. you can call me south.
 
-my discord tag 
+**📦 my discord tag**
 ```js
 SoutheastDEV#2873
 ```
+
+**📑 main links**
+
+[• YouTube Main](https://youtube.com/channel/UCENH1bHu_Bvm1fdA4Cfq90w)
+
+[• Replit](https://replit.com/@southeastdev)
